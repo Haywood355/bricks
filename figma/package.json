@@ -23,7 +23,7 @@
     "@babel/generator": "^7.20.14",
     "@babel/parser": "^7.20.15",
     "@babel/template": "^7.20.7",
-    "@babel/traverse": "^7.20.13",
+    "@babel/traverse": "^7.23.2",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@figma-plugin/helpers": "^0.15.2",
